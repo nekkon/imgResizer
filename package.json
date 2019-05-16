@@ -1,0 +1,25 @@
+{
+  "name": "imgresizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nekkon/imgResizer.git"
+  },
+  "keywords": [
+    "image",
+    "resize",
+    "node",
+    "gulp"
+  ],
+  "author": "nekkon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nekkon/imgResizer/issues"
+  },
+  "homepage": "https://github.com/nekkon/imgResizer#readme"
+}
