@@ -2,7 +2,7 @@
   "name": "imgresizer",
   "version": "1.0.0",
   "description": "",
-  "main": "gulpfile.js",
+  "main": "index.js",
   "scripts": {
     "gulp": "node node_modules/gulp/bin/gulp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,8 +14,7 @@
   "keywords": [
     "image",
     "resize",
-    "node",
-    "gulp"
+    "node"
   ],
   "author": "nekkon",
   "license": "ISC",
@@ -24,7 +23,7 @@
   },
   "homepage": "https://github.com/nekkon/imgResizer#readme",
   "dependencies": {
-    "gulp": "^4.0.2",
-    "gulp-rename": "^1.4.0"
+    "glob": "^7.1.4",
+    "jimp": "^0.6.4"
   }
 }
